@@ -26,6 +26,7 @@ powershell -c "irm bun.sh/install.ps1 | iex"
 
 ```bash
 gh repo clone skullzarmy/frog-airstack-starter
+cd frog-airstack-starter
 bun install
 cp .env.example .env
 ```
