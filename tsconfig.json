@@ -1,8 +1,8 @@
 {
-  "compilerOptions": {
-    "module": "NodeNext",
-    "strict": true,
-    "jsx": "react-jsx",
-    "jsxImportSource": "hono/jsx"
-  }
+    "compilerOptions": {
+        "module": "NodeNext",
+        "strict": true,
+        "jsx": "react-jsx",
+        "jsxImportSource": "@airstack/frog/jsx"
+    }
 }
